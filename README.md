@@ -39,4 +39,21 @@ Below is a description of the contents of each folder:
 - S_cerevisiae _Metabolite.xlsx: metabolite scores (computed by the script)
 - Switch_yeast.html: copy of the script (readable without jupyter notebook) 
 - Switch_yeast.ipynb: script
-- yeastGEM.xml: metabolic network (from  Herrgard et al., 2008)  
+- yeastGEM.xml: metabolic network (from  Herrgard et al., 2008)
+
+## Robustness_E_coli_core
+- Flux_samples_Aerobic.xlsx: fluxes for aerobic condition using sampling (computed by the script)
+- Flux_samples_Anaerobic.xlsx: fluxes for anaerobic condition using sampling (computed by the script)
+- Ecoli_core_Metabolite_Sampling.xlsx: metabolite scores (computed by the script)
+- Switch_Ecoli_core_sampling.html: copy of the script (readable without jupyter notebook) 
+- Switch_Ecoli_core_sampling.ipynb: script
+- e_coli_core.xml: metabolic network (from Orth et al., 2010)
+
+  ## Robustness_S_cerevisiae 
+- Flux_sample_Gln.xlsx: fluxes for Gln input using sampling (computed by the script)
+- Flux_sample_Ala.xlsx: fluxes for Ala input using sampling (computed by the script)
+- Flux_sample_NH4.xlsx: fluxes for NH4 input using sampling (computed by the script)
+- S_cerevisiae _Metabolite_sampling.xlsx: metabolite scores (computed by the script)
+- Switch_yeast_sample.html: copy of the script (readable without jupyter notebook) 
+- Switch_yeast_sample.ipynb: script
+- yeastGEM.xml: metabolic network (from  Herrgard et al., 2008)
