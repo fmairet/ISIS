@@ -49,7 +49,7 @@ Below is a description of the contents of each folder:
 - Switch_Ecoli_core_sampling.ipynb: script
 - e_coli_core.xml: metabolic network (from Orth et al., 2010)
 
-  ## Robustness_S_cerevisiae 
+## Robustness_S_cerevisiae 
 - Flux_sample_Gln.xlsx: fluxes for Gln input using sampling (computed by the script)
 - Flux_sample_Ala.xlsx: fluxes for Ala input using sampling (computed by the script)
 - Flux_sample_NH4.xlsx: fluxes for NH4 input using sampling (computed by the script)
